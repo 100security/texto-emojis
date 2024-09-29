@@ -1,4 +1,3 @@
-
 # 100SECURITY
 # Converter Texto <> Emojis
 # Por: Marcos Henrique
